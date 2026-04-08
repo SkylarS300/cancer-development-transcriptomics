@@ -1,29 +1,35 @@
 ## 🧬 Cancer–Development Transcriptomics
 
-**Do Tumors Recapitulate Fetal Mitotic Gene Expression Programs?**
+**Do Tumors Reuse Fetal Gene Expression Programs?**
 
 ---
 
 ### Overview
 
-This project investigates whether tumor gene expression patterns resemble those of fetal tissue, focusing on mitotic gene programs using RNA-seq data from TCGA and fetal expression datasets.
+Cancer cells divide rapidly. So do cells in early development.
+
+This project asks a simple question:
+
+> **Do tumors “look like” fetal tissue at the gene expression level?**
+
+To test this, we compare tumor and fetal RNA-seq data, focusing on genes involved in cell division (mitosis).
 
 ---
 
 ### Research Question
 
-Do tumors exhibit mitotic gene expression profiles similar to those observed during fetal development?
+Do tumors exhibit gene expression patterns similar to those seen during fetal development?
 
 ---
 
-### Approach
+### Approach (Plain Language)
 
-- Gene-level RNA-seq TPM data (TCGA tumors + fetal samples)
-- Curated set of ~600 mitotic genes
-- Alignment of shared genes across datasets
-- PCA for global structure comparison
-- Controlled sampling to correct for dataset imbalance
-- Correlation-based distance to compare expression patterns
+- Start with real RNA-seq data from tumors (TCGA) and fetal tissues
+- Focus on ~600 genes involved in cell division
+- Keep only genes shared between both datasets
+- Compare tumor and fetal samples in two ways:
+  1. **PCA** → do they occupy similar regions overall?
+  2. **Pattern matching** → which fetal tissues do tumors most resemble?
 
 ---
 
@@ -31,7 +37,10 @@ Do tumors exhibit mitotic gene expression profiles similar to those observed dur
 
 ![Joint PCA](results/figures/joint_pca_balanced.png)
 
-After balancing sample sizes, tumor samples form a tight cluster within a limited region of gene expression space, while fetal samples span a much broader range.
+After correcting for sample size differences, tumor samples cluster tightly in a small region, while fetal samples spread across a much wider space.
+
+**Interpretation:**  
+Tumors occupy a narrow and consistent expression state, while fetal development explores many different states.
 
 ---
 
@@ -39,39 +48,63 @@ After balancing sample sizes, tumor samples form a tight cluster within a limite
 
 ![Fetal Matches](results/figures/top_fetal_matches_corr.png)
 
-Using correlation-based distance, tumors map most frequently to fetal tissues associated with high proliferative or developmentally active contexts, including kidney, testis, liver, and neural tissues.
+When comparing expression patterns directly, tumors most often resemble:
 
-Rather than matching a single fetal tissue, tumors distribute across multiple developmental contexts.
+- kidney
+- testis
+- liver
+- brain regions
+
+**Interpretation:**  
+Tumors do not match one specific fetal tissue. Instead, they resemble multiple highly active developmental contexts.
 
 ---
 
-### Interpretation
+### Key Result 3: Tumor Subgroups
 
-Tumor mitotic gene expression appears **highly constrained and uniform**, whereas fetal mitotic expression is **diverse and context-dependent across tissues and developmental stages**.
+![Cluster Similarity](results/figures/cluster_fetal_similarity.png)
 
-Together, these results suggest that tumor proliferation reflects a **restricted and heterogeneous subset of developmental programs**, rather than broadly recapitulating fetal gene expression patterns.
+Clustering tumors reveals distinct groups with different fetal tissue similarities.
+
+Some clusters are enriched for:
+
+- liver/kidney-like patterns
+- testis-like patterns
+- neural-like patterns
+
+**Interpretation:**  
+Tumors are not a single state. They form **subtypes**, each resembling different developmental programs.
+
+---
+
+### Overall Interpretation
+
+- Tumor gene expression is **consistent but limited**
+- Fetal gene expression is **diverse and context-dependent**
+- Tumors do not fully “revert” to fetal states
+- Instead, they reuse **specific subsets of developmental programs**
 
 ---
 
 ### Limitations
 
-- Analysis restricted to mitotic genes
-- No direct inclusion of normal adult tissue for comparison
-- PCA captures global variance but not all transcriptional relationships
-- Distance-based matching depends on feature scaling and similarity metric
+- Focused only on mitotic (cell division) genes
+- No direct comparison to normal adult tissue
+- Results depend on chosen similarity metric (correlation distance)
+- PCA captures global structure but not all relationships
 
 ---
 
 ### Project Structure
 
-notebooks/ → main analysis notebook
-data/ → fetal + TCGA processed data
-results/ → figures and output tables
+notebooks/ → analysis notebook
+data/ → processed tumor + fetal data
+results/ → figures and tables
 
 ---
 
 ### Status
 
-This is an exploratory analysis aimed at refining hypotheses about the relationship between cancer and developmental gene expression.
+This is an exploratory analysis aimed at understanding how cancer relates to developmental biology.
 
-**Note:** Raw TCGA source files are not included due to file size constraints. The project is rebuilt from processed matrices derived from UCSC Xena gene-level TPM data.
+**Note:** Raw TCGA files are not included due to size constraints. The project is reconstructed from processed UCSC Xena TPM data.
