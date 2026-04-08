@@ -1,2 +1,16 @@
+# Large raw downloads
 data/tcga/TcgaTargetGtex_rsem_gene_tpm.gz
-*.gz
+
+# Keep downloaded metadata local
+data/tcga/TcgaTargetGTEX_phenotype.txt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
