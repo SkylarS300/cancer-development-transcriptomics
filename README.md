@@ -27,9 +27,10 @@ Do tumors exhibit gene expression patterns similar to those seen during fetal de
 - Start with real RNA-seq data from tumors (TCGA) and fetal tissues
 - Focus on ~600 genes involved in cell division
 - Keep only genes shared between both datasets
-- Compare tumor and fetal samples in two ways:
+- Compare tumor and fetal samples in three ways:
   1. **PCA** → do they occupy similar regions overall?
   2. **Pattern matching** → which fetal tissues do tumors most resemble?
+  3. Cluster analysis + marker genes → what defines tumor subtypes?
 
 ---
 
@@ -77,12 +78,33 @@ Tumors are not a single state. They form **subtypes**, each resembling different
 
 ---
 
+### Key Result 4: Cluster-Defining Genes
+
+![Marker Genes](results/figures/top_marker_genes_by_cluster.png)
+
+To understand what drives these tumor subgroups, we identified the genes that most strongly distinguish each cluster.
+
+Each group of tumors is defined by its own set of highly expressed genes, which act as a “signature” for that subtype.
+
+**Interpretation:**  
+Tumor clusters are not just visually different—they are driven by distinct gene expression programs.
+
+Some clusters show strong activation of cell division genes, while others show reduced or more selective expression of the same genes. This suggests that tumors exist in different regulatory states of the same underlying biological machinery.
+
+In simple terms:
+
+> Tumors are not all doing the same thing.  
+> They are using different versions of the same cellular toolkit.
+
+---
+
 ### Overall Interpretation
 
-- Tumor gene expression is **consistent but limited**
-- Fetal gene expression is **diverse and context-dependent**
+- Tumor gene expression is consistent but limited
+- Fetal gene expression is diverse and context-dependent
 - Tumors do not fully “revert” to fetal states
-- Instead, they reuse **specific subsets of developmental programs**
+- Instead, they reuse specific subsets of developmental programs
+- These programs differ across tumor subgroups and are driven by distinct gene expression signatures
 
 ---
 
