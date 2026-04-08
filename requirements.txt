@@ -1,0 +1,27 @@
+Cancer–Development Transcriptomics
+
+Do Tumors Recapitulate Fetal Mitotic Gene Expression Programs?
+
+Overview
+
+This project explores whether tumor gene expression patterns resemble those of fetal tissue, focusing on mitotic gene programs using RNA-seq data.
+
+Research Question:
+Do tumors exhibit mitotic gene expression profiles more similar to fetal tissue than to normal adult tissue?
+
+Approach:
+RNA-seq TPM data from tumor and fetal samples
+Curated set of mitotic genes
+PCA for dimensionality reduction
+Euclidean distance for tumor–fetal similarity
+Hierarchical clustering of tumor profiles
+Repository Structure
+
+Repository Structure:
+notebooks/     → main analysis notebook  
+src/           → helper scripts (in progress)  
+results/       → figures and outputs  
+data/          → input data (not included)  
+
+Status:
+This is an ongoing exploratory project. Results are preliminary and intended to guide further investigation.
