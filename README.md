@@ -1,6 +1,8 @@
-## Cancer–Development Transcriptomics
+## 🧬 Cancer–Development Transcriptomics
 
 **Do Tumors Recapitulate Fetal Mitotic Gene Expression Programs?**
+
+---
 
 ### Overview
 
@@ -19,12 +21,13 @@ Do tumors exhibit mitotic gene expression profiles similar to those observed dur
 - Gene-level RNA-seq TPM data (TCGA tumors + fetal samples)
 - Curated set of ~600 mitotic genes
 - Alignment of shared genes across datasets
-- PCA for dimensionality reduction and comparison
+- PCA for global structure comparison
 - Controlled sampling to correct for dataset imbalance
+- Correlation-based distance to compare expression patterns
 
 ---
 
-### Key Result
+### Key Result 1: Global Structure (PCA)
 
 ![Joint PCA](results/figures/joint_pca_balanced.png)
 
@@ -32,11 +35,21 @@ After balancing sample sizes, tumor samples form a tight cluster within a limite
 
 ---
 
+### Key Result 2: Tissue-Level Similarity
+
+![Fetal Matches](results/figures/top_fetal_matches_corr.png)
+
+Using correlation-based distance, tumors map most frequently to fetal tissues associated with high proliferative or developmentally active contexts, including kidney, testis, liver, and neural tissues.
+
+Rather than matching a single fetal tissue, tumors distribute across multiple developmental contexts.
+
+---
+
 ### Interpretation
 
-Tumor mitotic gene expression appears highly constrained and uniform, whereas fetal mitotic expression is diverse and context-dependent across tissues and developmental stages.
+Tumor mitotic gene expression appears **highly constrained and uniform**, whereas fetal mitotic expression is **diverse and context-dependent across tissues and developmental stages**.
 
-This suggests that tumor proliferation may reflect a restricted subset of developmental programs, rather than broadly recapitulating fetal gene expression patterns.
+Together, these results suggest that tumor proliferation reflects a **restricted and heterogeneous subset of developmental programs**, rather than broadly recapitulating fetal gene expression patterns.
 
 ---
 
@@ -44,7 +57,8 @@ This suggests that tumor proliferation may reflect a restricted subset of develo
 
 - Analysis restricted to mitotic genes
 - No direct inclusion of normal adult tissue for comparison
-- PCA provides a global view but does not capture all transcriptional relationships
+- PCA captures global variance but not all transcriptional relationships
+- Distance-based matching depends on feature scaling and similarity metric
 
 ---
 
@@ -58,6 +72,6 @@ results/ → figures and output tables
 
 ### Status
 
-This is an exploratory analysis intended to refine hypotheses about the relationship between cancer and developmental gene expression.
+This is an exploratory analysis aimed at refining hypotheses about the relationship between cancer and developmental gene expression.
 
-`Note: Raw TCGA source files are not included in this repository because of file size constraints. The project is rebuilt from processed matrices generated from UCSC Xena gene-level TPM data.`
+**Note:** Raw TCGA source files are not included due to file size constraints. The project is rebuilt from processed matrices derived from UCSC Xena gene-level TPM data.
