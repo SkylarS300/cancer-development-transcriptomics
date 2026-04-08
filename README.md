@@ -1,4 +1,4 @@
-## 🧬 Cancer–Development Transcriptomics
+## Cancer–Development Transcriptomics
 
 **Do Tumors Reuse Fetal Gene Expression Programs?**
 
