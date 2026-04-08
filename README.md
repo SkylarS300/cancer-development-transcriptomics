@@ -59,3 +59,5 @@ results/ → figures and output tables
 ### Status
 
 This is an exploratory analysis intended to refine hypotheses about the relationship between cancer and developmental gene expression.
+
+`Note: Raw TCGA source files are not included in this repository because of file size constraints. The project is rebuilt from processed matrices generated from UCSC Xena gene-level TPM data.`
