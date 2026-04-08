@@ -1,0 +1,501 @@
+tumor_sample,closest_fetal_profile,distance,stage,tissue
+TCGA-FD-A5BV-01,7 week post conception | kidney,0.66639686313877,7 week post conception,kidney
+TCGA-DX-A8BM-01,5 week post conception | forebrain,0.7593512940354717,5 week post conception,forebrain
+TCGA-DE-A3KN-01,infant | testis,0.44252739752423786,infant,testis
+TCGA-EJ-5519-01,11 week post conception | hindbrain,0.574606054115544,11 week post conception,hindbrain
+TCGA-BP-4160-01,16 week post conception | heart,0.5249204584401901,16 week post conception,heart
+TCGA-AJ-A3EJ-01,4 week post conception | kidney,0.6834969151914532,4 week post conception,kidney
+TCGA-CV-5434-01,4 week post conception | forebrain,0.7055504360213842,4 week post conception,forebrain
+TCGA-NG-A4VW-01,5 week post conception | forebrain,0.6870763482270146,5 week post conception,forebrain
+TCGA-KQ-A41Q-01,4 week post conception | forebrain,0.6871251565604383,4 week post conception,forebrain
+TCGA-IB-A7M4-01,6 week post conception | liver,0.7370339076717136,6 week post conception,liver
+TCGA-RC-A7S9-01,6 week post conception | liver,0.5234073566115759,6 week post conception,liver
+TCGA-HE-A5NH-01,19 week post conception | kidney,0.5480406958106435,19 week post conception,kidney
+TCGA-CJ-5684-01,19 week post conception | kidney,0.574833212189301,19 week post conception,kidney
+TCGA-QR-A6H5-01,11 week post conception | hindbrain,0.5126411456417679,11 week post conception,hindbrain
+TCGA-IZ-A6M9-01,infant | testis,0.5057719250127379,infant,testis
+TCGA-DB-A64O-01,neonate | forebrain,0.4725322330208367,neonate,forebrain
+TCGA-04-1517-01,4 week post conception | forebrain,0.7846313650938055,4 week post conception,forebrain
+TCGA-HU-A4H4-01,7 week post conception | liver,0.6162155796054687,7 week post conception,liver
+TCGA-CR-7390-01,4 week post conception | hindbrain,0.6004048908200174,4 week post conception,hindbrain
+TCGA-CE-A481-01,infant | testis,0.48395562800338343,infant,testis
+TCGA-EL-A3CR-01,infant | testis,0.5160460518546305,infant,testis
+TCGA-92-7340-01,19 week post conception | liver,0.7046489160874143,19 week post conception,liver
+TCGA-CM-6168-01,4 week post conception | hindbrain,0.670148435405105,4 week post conception,hindbrain
+TCGA-CR-7383-01,10 week post conception | liver,0.6556955388714466,10 week post conception,liver
+TCGA-60-2726-01,8 week post conception | liver,0.5937636717890962,8 week post conception,liver
+TCGA-XU-A92X-01,9 week post conception | ovary,0.5521732414047809,9 week post conception,ovary
+TCGA-CN-5369-01,12 week post conception | liver,0.6318371301677397,12 week post conception,liver
+TCGA-CV-A45O-01,infant | forebrain,0.7994103150507791,infant,forebrain
+TCGA-A2-A1G6-01,toddler | testis,0.532839269440381,toddler,testis
+TCGA-2Y-A9H2-01,toddler | kidney,0.8152148838895004,toddler,kidney
+TCGA-JL-A3YX-01,9 week post conception | ovary,0.7783630365920206,9 week post conception,ovary
+TCGA-B0-5088-01,infant | testis,0.5404036355983374,infant,testis
+TCGA-B6-A0RO-01,19 week post conception | kidney,0.7180165395371179,19 week post conception,kidney
+TCGA-EB-A430-01,4 week post conception | kidney,0.721021743693923,4 week post conception,kidney
+TCGA-49-4512-01,toddler | kidney,0.6876856788753447,toddler,kidney
+TCGA-56-6546-01,4 week post conception | hindbrain,0.5135737032629665,4 week post conception,hindbrain
+TCGA-CN-6992-01,5 week post conception | forebrain,0.6602473920901577,5 week post conception,forebrain
+TCGA-YS-A95C-01,16 week post conception | testis,0.7942446786405418,16 week post conception,testis
+TCGA-02-2483-01,9 week post conception | forebrain,0.5403560270645036,9 week post conception,forebrain
+TCGA-QR-A70U-01,11 week post conception | hindbrain,0.5917709400758314,11 week post conception,hindbrain
+TCGA-CV-5443-01,5 week post conception | forebrain,0.5442883789651787,5 week post conception,forebrain
+TCGA-SR-A6MU-01,neonate | forebrain,0.6070621534674858,neonate,forebrain
+TCGA-KK-A8IL-01,infant | testis,0.5499653424524464,infant,testis
+TCGA-55-7726-01,9 week post conception | kidney,0.5989265685215059,9 week post conception,kidney
+TCGA-BH-A0H9-01,12 week post conception | forebrain,0.7341386493222204,12 week post conception,forebrain
+TCGA-86-8278-01,12 week post conception | kidney,0.6812103104754209,12 week post conception,kidney
+TCGA-HC-7738-01,13 week post conception | hindbrain,0.6845865025190867,13 week post conception,hindbrain
+TCGA-DJ-A3UM-01,infant | testis,0.4891965885923393,infant,testis
+TCGA-FU-A3WB-01,5 week post conception | forebrain,0.5093809566363638,5 week post conception,forebrain
+TCGA-FG-8187-01,11 week post conception | hindbrain,0.4527034882595241,11 week post conception,hindbrain
+TCGA-25-1317-01,8 week post conception | kidney,0.8037924866322743,8 week post conception,kidney
+TCGA-GU-A42P-01,7 week post conception | kidney,0.6305071589683078,7 week post conception,kidney
+TCGA-CK-5912-01,9 week post conception | kidney,0.643123155227856,9 week post conception,kidney
+TCGA-X6-A8C7-01,6 week post conception | ovary,0.5892393436366393,6 week post conception,ovary
+TCGA-BR-4294-01,12 week post conception | hindbrain,0.7046625512438737,12 week post conception,hindbrain
+TCGA-XF-A9SI-01,13 week post conception | liver,0.7095889167330951,13 week post conception,liver
+TCGA-DD-A11C-01,19 week post conception | liver,0.6842271833576246,19 week post conception,liver
+TCGA-KL-8343-01,12 week post conception | hindbrain,0.6030145058159746,12 week post conception,hindbrain
+TCGA-A2-A1G1-01,16 week post conception | kidney,0.5109080450852803,16 week post conception,kidney
+TCGA-SG-A6Z4-01,5 week post conception | forebrain,0.6635716769678501,5 week post conception,forebrain
+TCGA-CH-5741-01,19 week post conception | kidney,0.6562070065544042,19 week post conception,kidney
+TCGA-85-A4QR-01,7 week post conception | kidney,0.5937659129351849,7 week post conception,kidney
+TCGA-AK-3455-01,infant | testis,0.592515325466181,infant,testis
+TCGA-JW-A5VK-01,9 week post conception | liver,0.5459183730650328,9 week post conception,liver
+TCGA-NF-A4WX-01,4 week post conception | kidney,0.6027538152133294,4 week post conception,kidney
+TCGA-85-A510-01,5 week post conception | forebrain,0.5651605298181726,5 week post conception,forebrain
+TCGA-DD-AADV-01,middle adult | liver,0.6705163643296606,middle adult,liver
+TCGA-06-0190-01,neonate | forebrain,0.7287085985228907,neonate,forebrain
+TCGA-A2-A04N-01,19 week post conception | kidney,0.705405432745294,19 week post conception,kidney
+TCGA-JU-AAVI-01,9 week post conception | liver,0.5763297021474694,9 week post conception,liver
+TCGA-CC-5258-01,4 week post conception | hindbrain,0.5971350042786738,4 week post conception,hindbrain
+TCGA-TM-A84T-01,11 week post conception | hindbrain,0.44437878071862735,11 week post conception,hindbrain
+TCGA-GL-A4EM-01,toddler | kidney,0.5799350180083139,toddler,kidney
+TCGA-55-6543-01,toddler | testis,0.6065548889212881,toddler,testis
+TCGA-V1-A9OF-01,infant | testis,0.6640187256833905,infant,testis
+TCGA-13-1485-01,19 week post conception | testis,0.7844522487243633,19 week post conception,testis
+TCGA-AK-3460-01,toddler | testis,0.5576296679922763,toddler,testis
+TCGA-AC-A3TM-01,8 week post conception | testis,0.5289491381405974,8 week post conception,testis
+TCGA-CV-A45Y-01,8 week post conception | liver,0.692824126396206,8 week post conception,liver
+TCGA-A3-3308-01,16 week post conception | testis,0.5859624127123519,16 week post conception,testis
+TCGA-A2-A0CP-01,infant | testis,0.5550724983004798,infant,testis
+TCGA-E9-A3HO-01,8 week post conception | liver,0.6634701785355883,8 week post conception,liver
+TCGA-37-A5EL-01,8 week post conception | kidney,0.773311303527664,8 week post conception,kidney
+TCGA-5X-AA5U-01,4 week post conception | testis,0.5511458287741076,4 week post conception,testis
+TCGA-D8-A1XS-01,16 week post conception | kidney,0.5127080187975916,16 week post conception,kidney
+TCGA-CZ-5465-01,19 week post conception | kidney,0.5423028545570331,19 week post conception,kidney
+TCGA-CH-5767-01,13 week post conception | hindbrain,0.6679779634485626,13 week post conception,hindbrain
+TCGA-ER-A19T-01,4 week post conception | hindbrain,0.6741592103168597,4 week post conception,hindbrain
+TCGA-CN-4738-01,4 week post conception | heart,0.7668998622610675,4 week post conception,heart
+TCGA-VB-A8QN-01,10 week post conception | liver,0.5236648127079182,10 week post conception,liver
+TCGA-CK-4951-01,7 week post conception | liver,0.6179823890408616,7 week post conception,liver
+TCGA-2Z-A9J3-01,toddler | kidney,0.7409516823305337,toddler,kidney
+TCGA-RD-A7BS-01,school age child | kidney,0.5032957126746508,school age child,kidney
+TCGA-AC-A23E-01,16 week post conception | kidney,0.5141954017569146,16 week post conception,kidney
+TCGA-DX-A6YX-01,4 week post conception | hindbrain,0.6095986688444639,4 week post conception,hindbrain
+TCGA-3A-A9IN-01,neonate | forebrain,0.57880707727277,neonate,forebrain
+TCGA-2G-AAGV-01,19 week post conception | testis,0.6446130601588775,19 week post conception,testis
+TCGA-CW-6097-01,16 week post conception | heart,0.5321718728941165,16 week post conception,heart
+TCGA-CV-7263-01,5 week post conception | forebrain,0.7239051903468865,5 week post conception,forebrain
+TCGA-G2-A2EJ-01,5 week post conception | forebrain,0.7003507666053779,5 week post conception,forebrain
+TCGA-M8-A5N4-01,19 week post conception | testis,0.6466092689856044,19 week post conception,testis
+TCGA-A6-5666-01,5 week post conception | forebrain,0.6070511806368644,5 week post conception,forebrain
+TCGA-FY-A4B4-01,infant | testis,0.540856230741414,infant,testis
+TCGA-76-4929-01,11 week post conception | hindbrain,0.6167609360184767,11 week post conception,hindbrain
+TCGA-S9-A7QX-01,11 week post conception | hindbrain,0.5533333554910749,11 week post conception,hindbrain
+TCGA-66-2737-01,5 week post conception | forebrain,0.6769266787737745,5 week post conception,forebrain
+TCGA-A8-A0A2-01,16 week post conception | kidney,0.6341940890936799,16 week post conception,kidney
+TCGA-4Z-AA80-01,5 week post conception | forebrain,0.6024568423199985,5 week post conception,forebrain
+TCGA-A2-A1FW-01,7 week post conception | hindbrain,0.5872967358935208,7 week post conception,hindbrain
+TCGA-58-8388-01,4 week post conception | testis,0.6258880041746833,4 week post conception,testis
+TCGA-HT-7478-01,13 week post conception | hindbrain,0.4629701397656196,13 week post conception,hindbrain
+TCGA-E8-A416-01,infant | testis,0.47192749382533816,infant,testis
+TCGA-ED-A8O5-01,middle adult | liver,0.7399594152939526,middle adult,liver
+TCGA-EQ-A4SO-01,7 week post conception | liver,0.7434348390733138,7 week post conception,liver
+TCGA-QH-A6X3-01,10 week post conception | hindbrain,0.5029403307025694,10 week post conception,hindbrain
+TCGA-FB-A78T-01,neonate | kidney,0.6177520482558262,neonate,kidney
+TCGA-D7-6527-01,7 week post conception | liver,0.6371332495694717,7 week post conception,liver
+TCGA-DQ-7591-01,5 week post conception | forebrain,0.5466453291004378,5 week post conception,forebrain
+TCGA-BH-A18N-01,6 week post conception | ovary,0.6679803958182517,6 week post conception,ovary
+TCGA-86-8075-01,16 week post conception | heart,0.7205603419533007,16 week post conception,heart
+TCGA-A1-A0SN-01,16 week post conception | kidney,0.7040599466422449,16 week post conception,kidney
+TCGA-21-5787-01,10 week post conception | liver,0.5961034774121583,10 week post conception,liver
+TCGA-98-A539-01,4 week post conception | forebrain,0.72061134262943,4 week post conception,forebrain
+TCGA-ET-A39P-01,infant | testis,0.5768719736384424,infant,testis
+TCGA-P3-A6SX-01,4 week post conception | forebrain,0.7103381901171064,4 week post conception,forebrain
+TCGA-A6-6780-01,4 week post conception | hindbrain,0.5522115848089924,4 week post conception,hindbrain
+TCGA-J4-A67S-01,infant | testis,0.5317752860838225,infant,testis
+TCGA-VQ-A91K-01,7 week post conception | liver,0.7916173709998127,7 week post conception,liver
+TCGA-41-4097-01,16 week post conception | hindbrain,0.5500435372763511,16 week post conception,hindbrain
+TCGA-2Z-A9JM-01,infant | testis,0.5377765938838358,infant,testis
+TCGA-CV-A6JZ-01,10 week post conception | liver,0.5887094978951775,10 week post conception,liver
+TCGA-EB-A51B-01,7 week post conception | forebrain,0.6959681290693746,7 week post conception,forebrain
+TCGA-DW-5561-01,infant | testis,0.6060112693304618,infant,testis
+TCGA-CV-7178-01,7 week post conception | liver,0.6993224113004917,7 week post conception,liver
+TCGA-BQ-5894-01,4 week post conception | kidney,0.7885767758443971,4 week post conception,kidney
+TCGA-VS-A94W-01,7 week post conception | kidney,0.5908235079098255,7 week post conception,kidney
+TCGA-18-3416-01,5 week post conception | forebrain,0.557550602228565,5 week post conception,forebrain
+TCGA-BT-A20N-01,5 week post conception | forebrain,0.5955204442322951,5 week post conception,forebrain
+TCGA-DX-AB2F-01,5 week post conception | testis,0.8082708410838741,5 week post conception,testis
+TCGA-F4-6703-01,5 week post conception | heart,0.6081272697853107,5 week post conception,heart
+TCGA-69-7974-01,5 week post conception | heart,0.7301966153775139,5 week post conception,heart
+TCGA-24-1422-01,16 week post conception | kidney,0.7853695732281069,16 week post conception,kidney
+TCGA-A7-A3J0-01,11 week post conception | hindbrain,0.6989161925749978,11 week post conception,hindbrain
+TCGA-GR-7353-01,9 week post conception | liver,0.5433510929074494,9 week post conception,liver
+TCGA-IE-A4EK-01,16 week post conception | heart,0.6859206317558526,16 week post conception,heart
+TCGA-EL-A3ZQ-01,infant | testis,0.5936578754704984,infant,testis
+TCGA-ET-A40S-01,infant | testis,0.474675651248457,infant,testis
+TCGA-DD-AA3A-01,8 week post conception | testis,0.7916707540298182,8 week post conception,testis
+TCGA-D8-A27P-01,16 week post conception | kidney,0.5512235773537745,16 week post conception,kidney
+TCGA-KS-A4I9-01,infant | testis,0.5129593807757791,infant,testis
+TCGA-29-1690-01,19 week post conception | kidney,0.7483596321111288,19 week post conception,kidney
+TCGA-EJ-5509-01,13 week post conception | hindbrain,0.6476141246668551,13 week post conception,hindbrain
+TCGA-SX-A7SN-01,infant | testis,0.5132447179813928,infant,testis
+TCGA-EJ-5532-01,12 week post conception | hindbrain,0.6191115729369803,12 week post conception,hindbrain
+TCGA-TM-A84S-01,11 week post conception | hindbrain,0.4670070722862235,11 week post conception,hindbrain
+TCGA-IB-8126-01,school age child | kidney,0.4401247855938918,school age child,kidney
+TCGA-DJ-A2PQ-01,infant | testis,0.5219461791425826,infant,testis
+TCGA-KO-8404-01,8 week post conception | testis,0.6580575019011002,8 week post conception,testis
+TCGA-BH-A0HN-01,8 week post conception | testis,0.714826551973892,8 week post conception,testis
+TCGA-G9-7522-01,infant | testis,0.5479609634248044,infant,testis
+TCGA-KL-8342-01,neonate | kidney,0.601078667349454,neonate,kidney
+TCGA-HT-7691-01,neonate | forebrain,0.4803620359118783,neonate,forebrain
+TCGA-2G-AAHP-01,12 week post conception | ovary,0.5811609341107467,12 week post conception,ovary
+TCGA-43-7657-01,5 week post conception | forebrain,0.7935960224366869,5 week post conception,forebrain
+TCGA-DD-A4NP-01,toddler | liver,0.5561748664329436,toddler,liver
+TCGA-TQ-A7RK-01,9 week post conception | hindbrain,0.5638927673050984,9 week post conception,hindbrain
+TCGA-BH-A0DI-01,16 week post conception | testis,0.6685672247646002,16 week post conception,testis
+TCGA-OR-A5L3-01,young adult | heart,0.704011804709092,young adult,heart
+TCGA-EU-5907-01,19 week post conception | kidney,0.5986616053570836,19 week post conception,kidney
+TCGA-CJ-5686-01,19 week post conception | kidney,0.538704023232387,19 week post conception,kidney
+TCGA-XF-AAN8-01,infant | testis,0.6321256674934237,infant,testis
+TCGA-DU-7010-01,7 week post conception | hindbrain,0.67280139331815,7 week post conception,hindbrain
+TCGA-BR-6453-01,middle adult | heart,0.6162306989575785,middle adult,heart
+TCGA-A6-A567-01,10 week post conception | kidney,0.7418841211594254,10 week post conception,kidney
+TCGA-55-8207-01,toddler | testis,0.5631031552133035,toddler,testis
+TCGA-EL-A3GS-01,19 week post conception | kidney,0.52843274103306,19 week post conception,kidney
+TCGA-EK-A2RM-01,9 week post conception | liver,0.6569954904554338,9 week post conception,liver
+TCGA-13-0766-01,9 week post conception | liver,0.5580685857026415,9 week post conception,liver
+TCGA-BH-A42T-01,8 week post conception | liver,0.7119995246698338,8 week post conception,liver
+TCGA-DU-5855-01,11 week post conception | hindbrain,0.43031047024268954,11 week post conception,hindbrain
+TCGA-BP-5007-01,toddler | testis,0.5090297007723444,toddler,testis
+TCGA-BQ-5885-01,toddler | kidney,0.6239959723880546,toddler,kidney
+TCGA-AR-A1AL-01,16 week post conception | kidney,0.475643102819152,16 week post conception,kidney
+TCGA-C5-A7X3-01,9 week post conception | liver,0.6392070872910027,9 week post conception,liver
+TCGA-CV-6933-01,13 week post conception | liver,0.7081867636905541,13 week post conception,liver
+TCGA-E2-A1LS-01,16 week post conception | heart,0.6354911793797835,16 week post conception,heart
+TCGA-61-1907-01,10 week post conception | liver,0.746802598992085,10 week post conception,liver
+TCGA-WB-A80P-01,11 week post conception | hindbrain,0.5752377111182276,11 week post conception,hindbrain
+TCGA-JX-A3Q8-01,9 week post conception | liver,0.620061099211159,9 week post conception,liver
+TCGA-G3-AAV7-01,4 week post conception | liver,0.6669114369784037,4 week post conception,liver
+TCGA-BP-4329-01,toddler | testis,0.5454205037710277,toddler,testis
+TCGA-SL-A6JA-01,8 week post conception | testis,0.5518979088947993,8 week post conception,testis
+TCGA-NJ-A55R-01,toddler | kidney,0.7786582465251135,toddler,kidney
+TCGA-39-5040-01,4 week post conception | hindbrain,0.6808789908180588,4 week post conception,hindbrain
+TCGA-XK-AAIW-01,4 week post conception | ovary,0.6984732491316996,4 week post conception,ovary
+TCGA-19-2620-01,neonate | forebrain,0.5553911446199943,neonate,forebrain
+TCGA-HT-A74K-01,11 week post conception | forebrain,0.5475588916665033,11 week post conception,forebrain
+TCGA-R6-A8W8-01,16 week post conception | kidney,0.7339869252640023,16 week post conception,kidney
+TCGA-ET-A39R-01,infant | testis,0.6075456077270622,infant,testis
+TCGA-GM-A2DA-01,middle adult | heart,0.6926143624059453,middle adult,heart
+TCGA-O9-A75Z-01,infant | testis,0.47788235415751545,infant,testis
+TCGA-50-5931-01,7 week post conception | kidney,0.6824842782834889,7 week post conception,kidney
+TCGA-MS-A51U-01,toddler | testis,0.6118808177923384,toddler,testis
+TCGA-ZH-A8Y2-01,12 week post conception | kidney,0.7077447678867004,12 week post conception,kidney
+TCGA-GM-A5PV-01,infant | testis,0.559579931846764,infant,testis
+TCGA-49-4514-01,9 week post conception | liver,0.5502781224629508,9 week post conception,liver
+TCGA-ZC-AAAH-01,9 week post conception | liver,0.5500872483874558,9 week post conception,liver
+TCGA-B8-4148-01,16 week post conception | testis,0.549603648049177,16 week post conception,testis
+TCGA-CJ-4892-01,infant | testis,0.5062255950275719,infant,testis
+TCGA-CV-A6K0-01,7 week post conception | heart,0.7210401919037269,7 week post conception,heart
+TCGA-BH-A1EV-01,16 week post conception | kidney,0.7008147144873758,16 week post conception,kidney
+TCGA-E7-A85H-01,4 week post conception | kidney,0.6827333838461548,4 week post conception,kidney
+TCGA-EM-A3FQ-01,infant | testis,0.5178720026394895,infant,testis
+TCGA-EO-A3B1-01,4 week post conception | kidney,0.5958462820819441,4 week post conception,kidney
+TCGA-TQ-A7RP-01,neonate | forebrain,0.48156333970979537,neonate,forebrain
+TCGA-N9-A4Q8-01,5 week post conception | forebrain,0.6054112092478717,5 week post conception,forebrain
+TCGA-BQ-7060-01,toddler | testis,0.5848062601361701,toddler,testis
+TCGA-QG-A5Z2-01,8 week post conception | kidney,0.7160738280403629,8 week post conception,kidney
+TCGA-D7-6817-01,16 week post conception | liver,0.7524827975099242,16 week post conception,liver
+TCGA-4Z-AA7Q-01,10 week post conception | liver,0.5714340157893578,10 week post conception,liver
+TCGA-S7-A7WL-01,11 week post conception | hindbrain,0.5336698926935165,11 week post conception,hindbrain
+TCGA-DX-A1L0-01,7 week post conception | heart,0.7738016821004602,7 week post conception,heart
+TCGA-S9-A6TZ-01,10 week post conception | hindbrain,0.42728551087159083,10 week post conception,hindbrain
+TCGA-96-7545-01,16 week post conception | heart,0.5840343028918342,16 week post conception,heart
+TCGA-E1-A7Z4-01,11 week post conception | hindbrain,0.45183126958514086,11 week post conception,hindbrain
+TCGA-D8-A13Z-01,4 week post conception | ovary,0.6204512315987141,4 week post conception,ovary
+TCGA-BH-A1FB-01,16 week post conception | kidney,0.46801349361478606,16 week post conception,kidney
+TCGA-RW-A684-01,11 week post conception | hindbrain,0.5431254504499929,11 week post conception,hindbrain
+TCGA-HC-A8D0-01,infant | testis,0.5720317968969242,infant,testis
+TCGA-30-1718-01,5 week post conception | forebrain,0.6765436296207736,5 week post conception,forebrain
+TCGA-BB-7862-01,4 week post conception | hindbrain,0.6104975064328848,4 week post conception,hindbrain
+TCGA-BW-A5NO-01,toddler | liver,0.5598058191849145,toddler,liver
+TCGA-G3-A25X-01,9 week post conception | liver,0.5205189949425444,9 week post conception,liver
+TCGA-VQ-A8DU-01,school age child | kidney,0.6598672348855503,school age child,kidney
+TCGA-56-7580-01,4 week post conception | forebrain,0.5746969170096967,4 week post conception,forebrain
+TCGA-BP-4975-01,19 week post conception | kidney,0.5829016582406654,19 week post conception,kidney
+TCGA-IG-A97I-01,5 week post conception | forebrain,0.7226167563988999,5 week post conception,forebrain
+TCGA-KF-A41W-01,4 week post conception | kidney,0.7502262408784094,4 week post conception,kidney
+TCGA-HT-8011-01,7 week post conception | forebrain,0.5619149737410561,7 week post conception,forebrain
+TCGA-CV-7437-01,4 week post conception | hindbrain,0.725160110952187,4 week post conception,hindbrain
+TCGA-09-0369-01,9 week post conception | forebrain,0.5885539914413059,9 week post conception,forebrain
+TCGA-ED-A7XP-01,toddler | liver,0.6865990153448284,toddler,liver
+TCGA-ZF-AA5P-01,neonate | heart,0.6985836807443212,neonate,heart
+TCGA-PT-A8TR-01,19 week post conception | forebrain,0.7531307275118708,19 week post conception,forebrain
+TCGA-JY-A93D-01,16 week post conception | heart,0.5567734642767598,16 week post conception,heart
+TCGA-SC-A6LN-01,8 week post conception | testis,0.6835700677052032,8 week post conception,testis
+TCGA-FD-A43P-01,4 week post conception | forebrain,0.6190220212925448,4 week post conception,forebrain
+TCGA-60-2711-01,4 week post conception | forebrain,0.5646665971191438,4 week post conception,forebrain
+TCGA-DD-A4NE-01,middle adult | liver,0.629036712167196,middle adult,liver
+TCGA-QQ-A5VC-01,9 week post conception | heart,0.7390631484625275,9 week post conception,heart
+TCGA-WY-A85E-01,11 week post conception | hindbrain,0.4525960354944564,11 week post conception,hindbrain
+TCGA-37-4133-01,5 week post conception | liver,0.7198559814378569,5 week post conception,liver
+TCGA-2L-AAQL-01,toddler | kidney,0.5560042884721299,toddler,kidney
+TCGA-G8-6324-01,8 week post conception | testis,0.5735390709688195,8 week post conception,testis
+TCGA-AC-A5XS-01,10 week post conception | testis,0.7330236384140946,10 week post conception,testis
+TCGA-ND-A4W6-01,9 week post conception | liver,0.5472190716595329,9 week post conception,liver
+TCGA-CN-4733-01,13 week post conception | liver,0.6273956934326178,13 week post conception,liver
+TCGA-W5-AA2Q-01,19 week post conception | kidney,0.6531777093085191,19 week post conception,kidney
+TCGA-QK-A6IH-01,9 week post conception | liver,0.6191953999170041,9 week post conception,liver
+TCGA-AG-3725-01,5 week post conception | forebrain,0.7912789105719675,5 week post conception,forebrain
+TCGA-C5-A2LT-01,5 week post conception | forebrain,0.7378583678280545,5 week post conception,forebrain
+TCGA-AC-A6IW-01,10 week post conception | liver,0.632819278231744,10 week post conception,liver
+TCGA-44-2665-01,16 week post conception | heart,0.49591414663298006,16 week post conception,heart
+TCGA-AO-A03L-01,4 week post conception | hindbrain,0.7138369192924494,4 week post conception,hindbrain
+TCGA-A2-A0YL-01,16 week post conception | kidney,0.5089450976535038,16 week post conception,kidney
+TCGA-RW-A68G-01,neonate | forebrain,0.6202140417980063,neonate,forebrain
+TCGA-OR-A5JE-01,11 week post conception | testis,0.6791748587667119,11 week post conception,testis
+TCGA-S9-A6TV-01,19 week post conception | forebrain,0.537170808609527,19 week post conception,forebrain
+TCGA-QR-A700-01,middle adult | forebrain,0.6713247140273546,middle adult,forebrain
+TCGA-37-A5EM-01,5 week post conception | forebrain,0.5636622566816858,5 week post conception,forebrain
+TCGA-3B-A9HZ-01,19 week post conception | testis,0.7199805978227553,19 week post conception,testis
+TCGA-XJ-A83F-01,infant | testis,0.6826693249930367,infant,testis
+TCGA-BH-A8G0-01,infant | testis,0.4722388028194634,infant,testis
+TCGA-E7-A519-01,8 week post conception | testis,0.5631530300070375,8 week post conception,testis
+TCGA-BR-6710-01,school age child | kidney,0.5253196481949632,school age child,kidney
+TCGA-3B-A9HU-01,16 week post conception | ovary,0.8141756121783121,16 week post conception,ovary
+TCGA-IR-A3LK-01,5 week post conception | forebrain,0.6120168167668797,5 week post conception,forebrain
+TCGA-E2-A14U-01,infant | testis,0.4410101371066346,infant,testis
+TCGA-DR-A0ZL-01,5 week post conception | forebrain,0.6102135270515892,5 week post conception,forebrain
+TCGA-BH-A0HF-01,16 week post conception | heart,0.7844335774165767,16 week post conception,heart
+TCGA-A8-A07U-01,4 week post conception | hindbrain,0.6415773263977615,4 week post conception,hindbrain
+TCGA-CJ-4876-01,infant | testis,0.5874289816828131,infant,testis
+TCGA-CX-A4AQ-01,9 week post conception | liver,0.5529039393376073,9 week post conception,liver
+TCGA-EJ-5531-01,19 week post conception | kidney,0.6496325421582309,19 week post conception,kidney
+TCGA-CN-5365-01,13 week post conception | liver,0.643364131736716,13 week post conception,liver
+TCGA-V1-A8MU-01,infant | testis,0.458383299222201,infant,testis
+TCGA-06-0219-01,adolescent | heart,0.6768438859377499,adolescent,heart
+TCGA-BH-A1FN-01,16 week post conception | kidney,0.6161995253232954,16 week post conception,kidney
+TCGA-77-8144-01,4 week post conception | hindbrain,0.5559442531091314,4 week post conception,hindbrain
+TCGA-G7-7501-01,13 week post conception | kidney,0.6998869936770409,13 week post conception,kidney
+TCGA-CW-5589-01,19 week post conception | kidney,0.518663712870117,19 week post conception,kidney
+TCGA-BH-A0E6-01,9 week post conception | liver,0.6144977885350509,9 week post conception,liver
+TCGA-CM-6675-01,7 week post conception | kidney,0.6333202560922407,7 week post conception,kidney
+TCGA-XJ-A83G-01,infant | testis,0.6630776945011962,infant,testis
+TCGA-VQ-A92D-01,16 week post conception | kidney,0.7901976815078539,16 week post conception,kidney
+TCGA-96-8169-01,4 week post conception | liver,0.8328804656715393,4 week post conception,liver
+TCGA-XU-A931-01,infant | testis,0.6118205545586077,infant,testis
+TCGA-AC-A2FB-01,16 week post conception | kidney,0.5428128382338715,16 week post conception,kidney
+TCGA-DB-A4XB-01,11 week post conception | hindbrain,0.41767093428556534,11 week post conception,hindbrain
+TCGA-EA-A6QX-01,8 week post conception | liver,0.6277157597896177,8 week post conception,liver
+TCGA-15-0742-01,9 week post conception | forebrain,0.5778004036091852,9 week post conception,forebrain
+TCGA-DD-AAVR-01,infant | liver,0.5133950695182805,infant,liver
+TCGA-E9-A6HE-01,8 week post conception | testis,0.5984783534127635,8 week post conception,testis
+TCGA-B0-4811-01,middle adult | heart,0.6051215529402478,middle adult,heart
+TCGA-22-5479-01,4 week post conception | forebrain,0.574555883692693,4 week post conception,forebrain
+TCGA-P5-A72W-01,neonate | forebrain,0.526816789633523,neonate,forebrain
+TCGA-CJ-4870-01,toddler | testis,0.5597672921793722,toddler,testis
+TCGA-A7-A4SF-01,7 week post conception | kidney,0.7137407224884589,7 week post conception,kidney
+TCGA-DB-5278-01,11 week post conception | hindbrain,0.33363014870993635,11 week post conception,hindbrain
+TCGA-LK-A4NY-01,19 week post conception | testis,0.7529783866261307,19 week post conception,testis
+TCGA-X7-A8M3-01,9 week post conception | ovary,0.8175209371312816,9 week post conception,ovary
+TCGA-73-4670-01,5 week post conception | forebrain,0.706659481030147,5 week post conception,forebrain
+TCGA-22-0940-01,5 week post conception | forebrain,0.6810215647750846,5 week post conception,forebrain
+TCGA-BF-A3DJ-01,4 week post conception | heart,0.8325455995439885,4 week post conception,heart
+TCGA-HD-8314-01,5 week post conception | hindbrain,0.6346795363685445,5 week post conception,hindbrain
+TCGA-5C-AAPD-01,9 week post conception | liver,0.5139122349078414,9 week post conception,liver
+TCGA-BR-8678-01,4 week post conception | hindbrain,0.5047773716619401,4 week post conception,hindbrain
+TCGA-24-2020-01,4 week post conception | forebrain,0.5900155880179618,4 week post conception,forebrain
+TCGA-CM-5860-01,9 week post conception | kidney,0.6911101177086687,9 week post conception,kidney
+TCGA-3B-A9I0-01,9 week post conception | heart,0.7529377890908628,9 week post conception,heart
+TCGA-DJ-A3V6-01,infant | testis,0.5334325885415891,infant,testis
+TCGA-GC-A4ZW-01,7 week post conception | kidney,0.640433833495686,7 week post conception,kidney
+TCGA-B6-A0IA-01,9 week post conception | liver,0.8149364712886764,9 week post conception,liver
+TCGA-33-4582-01,5 week post conception | forebrain,0.6447275843220581,5 week post conception,forebrain
+TCGA-60-2712-01,school age child | kidney,0.6101345029447244,school age child,kidney
+TCGA-B0-5705-01,19 week post conception | kidney,0.562487439039788,19 week post conception,kidney
+TCGA-32-4213-01,middle adult | heart,0.5754236699735827,middle adult,heart
+TCGA-HC-8216-01,19 week post conception | kidney,0.700532830042338,19 week post conception,kidney
+TCGA-DD-AAVU-01,6 week post conception | liver,0.5871523545143728,6 week post conception,liver
+TCGA-HW-8322-01,10 week post conception | hindbrain,0.49124671891391514,10 week post conception,hindbrain
+TCGA-L9-A444-01,infant | kidney,0.759374261711333,infant,kidney
+TCGA-E2-A14T-01,7 week post conception | hindbrain,0.7937740163434237,7 week post conception,hindbrain
+TCGA-QS-A744-01,5 week post conception | forebrain,0.5702857916005255,5 week post conception,forebrain
+TCGA-BP-5191-01,middle adult | heart,0.46402137104012053,middle adult,heart
+TCGA-FG-7634-01,12 week post conception | hindbrain,0.46155505506275174,12 week post conception,hindbrain
+TCGA-SW-A7EB-01,school age child | kidney,0.6164319882885502,school age child,kidney
+TCGA-43-8118-01,4 week post conception | forebrain,0.5608928192587477,4 week post conception,forebrain
+TCGA-S5-AA26-01,8 week post conception | liver,0.6020272202275609,8 week post conception,liver
+TCGA-DU-8166-01,10 week post conception | hindbrain,0.38255200616047036,10 week post conception,hindbrain
+TCGA-DM-A28F-01,7 week post conception | kidney,0.711451122417435,7 week post conception,kidney
+TCGA-G8-6914-01,9 week post conception | liver,0.4931758019773711,9 week post conception,liver
+TCGA-C8-A8HR-01,infant | testis,0.8075268954169904,infant,testis
+TCGA-CG-4460-01,16 week post conception | kidney,0.6109562125589763,16 week post conception,kidney
+TCGA-HZ-7289-01,13 week post conception | liver,0.7393103086001336,13 week post conception,liver
+TCGA-78-7152-01,19 week post conception | kidney,0.7383228205353518,19 week post conception,kidney
+TCGA-G9-6356-01,toddler | testis,0.5987150832213548,toddler,testis
+TCGA-CV-5436-01,4 week post conception | forebrain,0.6322150746621076,4 week post conception,forebrain
+TCGA-JY-A6FH-01,8 week post conception | kidney,0.7200445754311775,8 week post conception,kidney
+TCGA-L5-A4OO-01,school age child | kidney,0.7211748880890028,school age child,kidney
+TCGA-B0-4815-01,elderly | liver,0.6525347087336972,elderly,liver
+TCGA-G3-AAV4-01,school age child | liver,0.8067927830255474,school age child,liver
+TCGA-2Y-A9H0-01,6 week post conception | liver,0.6069310030321484,6 week post conception,liver
+TCGA-S9-A6WL-01,11 week post conception | hindbrain,0.3775472731075461,11 week post conception,hindbrain
+TCGA-SX-A7SQ-01,infant | testis,0.57218078823691,infant,testis
+TCGA-DD-A11B-01,middle adult | liver,0.6221475920013033,middle adult,liver
+TCGA-13-0901-01,4 week post conception | hindbrain,0.7660712258667428,4 week post conception,hindbrain
+TCGA-C8-A137-01,4 week post conception | ovary,0.6707545861450039,4 week post conception,ovary
+TCGA-G4-6302-01,19 week post conception | testis,0.6889782099155524,19 week post conception,testis
+TCGA-WB-A81P-01,11 week post conception | hindbrain,0.4809535991431654,11 week post conception,hindbrain
+TCGA-ZJ-AAX8-01,7 week post conception | kidney,0.6224544968603024,7 week post conception,kidney
+TCGA-33-AASJ-01,5 week post conception | forebrain,0.5771782663999208,5 week post conception,forebrain
+TCGA-D8-A142-01,7 week post conception | heart,0.7840926427189454,7 week post conception,heart
+TCGA-Z6-A9VB-01,5 week post conception | forebrain,0.5770249612422547,5 week post conception,forebrain
+TCGA-LN-A9FO-01,4 week post conception | hindbrain,0.6468437467991732,4 week post conception,hindbrain
+TCGA-QM-A5NM-01,9 week post conception | liver,0.5691187994631511,9 week post conception,liver
+TCGA-43-7658-01,5 week post conception | forebrain,0.573243617911974,5 week post conception,forebrain
+TCGA-DX-A6BG-01,16 week post conception | testis,0.740839774334728,16 week post conception,testis
+TCGA-25-2399-01,8 week post conception | kidney,0.7130345062744197,8 week post conception,kidney
+TCGA-Q1-A6DV-01,5 week post conception | forebrain,0.6271512430915358,5 week post conception,forebrain
+TCGA-F5-6864-01,8 week post conception | kidney,0.7407042544332774,8 week post conception,kidney
+TCGA-21-A5DI-01,7 week post conception | kidney,0.7006553652636623,7 week post conception,kidney
+TCGA-AR-A24P-01,16 week post conception | kidney,0.4043817010475038,16 week post conception,kidney
+TCGA-BH-AB28-01,12 week post conception | kidney,0.7343788779716192,12 week post conception,kidney
+TCGA-55-7725-01,16 week post conception | kidney,0.42470772295591674,16 week post conception,kidney
+TCGA-98-A53A-01,4 week post conception | forebrain,0.5799041193168127,4 week post conception,forebrain
+TCGA-77-8146-01,8 week post conception | kidney,0.7488835506241508,8 week post conception,kidney
+TCGA-D5-5537-01,4 week post conception | liver,0.7587777523777376,4 week post conception,liver
+TCGA-ZB-A964-01,infant | testis,0.6130611776152183,infant,testis
+TCGA-C5-A2LX-01,9 week post conception | liver,0.4894527821272141,9 week post conception,liver
+TCGA-QK-AA3J-01,5 week post conception | forebrain,0.6791640797829839,5 week post conception,forebrain
+TCGA-J4-A67L-01,infant | testis,0.5615933578670822,infant,testis
+TCGA-NH-A50T-01,5 week post conception | forebrain,0.5123016136237957,5 week post conception,forebrain
+TCGA-BR-8367-01,16 week post conception | heart,0.591236140489597,16 week post conception,heart
+TCGA-X2-A95T-01,7 week post conception | testis,0.7407208036482689,7 week post conception,testis
+TCGA-76-4927-01,11 week post conception | forebrain,0.7321510963249995,11 week post conception,forebrain
+TCGA-CJ-4875-01,young adult | liver,0.6815394694356203,young adult,liver
+TCGA-AN-A03Y-01,5 week post conception | forebrain,0.7727337358867111,5 week post conception,forebrain
+TCGA-B6-A0IQ-01,5 week post conception | forebrain,0.5654932437656864,5 week post conception,forebrain
+TCGA-ZB-A96E-01,7 week post conception | kidney,0.6294590116414358,7 week post conception,kidney
+TCGA-J9-A8CK-01,infant | testis,0.5803665542121172,infant,testis
+TCGA-CD-A4MI-01,16 week post conception | heart,0.5619634392835848,16 week post conception,heart
+TCGA-EB-A4OZ-01,9 week post conception | liver,0.6010601166804042,9 week post conception,liver
+TCGA-A8-A06Z-01,11 week post conception | ovary,0.8180724263197953,11 week post conception,ovary
+TCGA-VS-A957-01,5 week post conception | forebrain,0.5867175058830965,5 week post conception,forebrain
+TCGA-5P-A9JY-01,infant | testis,0.5888094616003403,infant,testis
+TCGA-A8-A07O-01,4 week post conception | hindbrain,0.5201416999711733,4 week post conception,hindbrain
+TCGA-OL-A5RY-01,neonate | liver,0.7749649366225518,neonate,liver
+TCGA-DX-A2IZ-01,6 week post conception | hindbrain,0.7663776178044661,6 week post conception,hindbrain
+TCGA-VQ-A8P2-01,5 week post conception | forebrain,0.5713416938601545,5 week post conception,forebrain
+TCGA-DH-A7UV-01,11 week post conception | hindbrain,0.4873969144504833,11 week post conception,hindbrain
+TCGA-KK-A8IF-01,infant | testis,0.729661082342417,infant,testis
+TCGA-US-A77E-01,infant | testis,0.5725904548955983,infant,testis
+TCGA-E2-A150-01,9 week post conception | kidney,0.6778921922412936,9 week post conception,kidney
+TCGA-KL-8329-01,neonate | kidney,0.6866735866445581,neonate,kidney
+TCGA-AY-A8YK-01,7 week post conception | kidney,0.7221689381074148,7 week post conception,kidney
+TCGA-24-2024-01,7 week post conception | kidney,0.8450556572228008,7 week post conception,kidney
+TCGA-QQ-A5VB-01,9 week post conception | liver,0.7214141226468511,9 week post conception,liver
+TCGA-EL-A3GV-01,19 week post conception | kidney,0.5289982130090688,19 week post conception,kidney
+TCGA-IC-A6RE-01,4 week post conception | hindbrain,0.6511857665128645,4 week post conception,hindbrain
+TCGA-ZM-AA06-01,8 week post conception | liver,0.63735563443182,8 week post conception,liver
+TCGA-GI-A2C8-01,19 week post conception | kidney,0.5907727219263211,19 week post conception,kidney
+TCGA-BM-6198-01,6 week post conception | liver,0.629125620852335,6 week post conception,liver
+TCGA-DU-8168-01,10 week post conception | hindbrain,0.49218939960139896,10 week post conception,hindbrain
+TCGA-FG-A60L-01,neonate | forebrain,0.5221842589213874,neonate,forebrain
+TCGA-P5-A5EU-01,7 week post conception | hindbrain,0.6881182466309577,7 week post conception,hindbrain
+TCGA-OR-A5KO-01,9 week post conception | testis,0.8171570140025018,9 week post conception,testis
+TCGA-RC-A6M3-01,6 week post conception | liver,0.5374066816119054,6 week post conception,liver
+TCGA-AP-A3K1-01,9 week post conception | liver,0.7049386811852909,9 week post conception,liver
+TCGA-73-4677-01,19 week post conception | kidney,0.5688297578768038,19 week post conception,kidney
+TCGA-BA-6870-01,10 week post conception | liver,0.6236397676245096,10 week post conception,liver
+TCGA-86-8674-01,9 week post conception | ovary,0.7571007978731693,9 week post conception,ovary
+TCGA-CR-5250-01,5 week post conception | forebrain,0.6156635246965336,5 week post conception,forebrain
+TCGA-DB-A4X9-01,11 week post conception | hindbrain,0.4088950201487892,11 week post conception,hindbrain
+TCGA-D5-6532-01,5 week post conception | forebrain,0.6625317719711636,5 week post conception,forebrain
+TCGA-YT-A95H-01,7 week post conception | kidney,0.594114491191379,7 week post conception,kidney
+TCGA-CQ-5329-01,5 week post conception | forebrain,0.6650876949236846,5 week post conception,forebrain
+TCGA-A2-A0T3-01,5 week post conception | forebrain,0.6996853722379874,5 week post conception,forebrain
+TCGA-IH-A3EA-01,4 week post conception | kidney,0.6269405076283241,4 week post conception,kidney
+TCGA-31-1950-01,7 week post conception | kidney,0.6950407466658346,7 week post conception,kidney
+TCGA-DU-6399-01,12 week post conception | hindbrain,0.5204582713252927,12 week post conception,hindbrain
+TCGA-E2-A14V-01,5 week post conception | forebrain,0.6497641739791198,5 week post conception,forebrain
+TCGA-CE-A484-01,infant | testis,0.5268232836434232,infant,testis
+TCGA-CU-A3QU-01,5 week post conception | forebrain,0.7562758748021847,5 week post conception,forebrain
+TCGA-FG-A70Y-01,11 week post conception | hindbrain,0.42859358111200074,11 week post conception,hindbrain
+TCGA-ET-A40P-01,infant | testis,0.4897369369804999,infant,testis
+TCGA-AC-A2QH-01,4 week post conception | hindbrain,0.5970888909234859,4 week post conception,hindbrain
+TCGA-V1-A9OH-01,infant | testis,0.6364469192030189,infant,testis
+TCGA-D7-8578-01,school age child | kidney,0.6775577200716509,school age child,kidney
+TCGA-UZ-A9PU-01,infant | testis,0.5097498480180375,infant,testis
+TCGA-3A-A9I9-01,middle adult | heart,0.5040287590832591,middle adult,heart
+TCGA-G4-6304-01,6 week post conception | liver,0.6220426767818911,6 week post conception,liver
+TCGA-IA-A83T-01,neonate | kidney,0.5491315001853738,neonate,kidney
+TCGA-BH-A0C7-01,16 week post conception | kidney,0.6728378512397031,16 week post conception,kidney
+TCGA-3H-AB3U-01,16 week post conception | testis,0.7661921317910205,16 week post conception,testis
+TCGA-BP-4335-01,toddler | testis,0.5448401081452342,toddler,testis
+TCGA-78-7161-01,12 week post conception | kidney,0.7114225415734168,12 week post conception,kidney
+TCGA-2G-AAFE-01,12 week post conception | ovary,0.5110535314676562,12 week post conception,ovary
+TCGA-GN-A4U5-01,13 week post conception | testis,0.790562192087148,13 week post conception,testis
+TCGA-EX-A3L1-01,5 week post conception | forebrain,0.6756820352467086,5 week post conception,forebrain
+TCGA-V1-A9Z7-01,toddler | testis,0.7598312461789067,toddler,testis
+TCGA-N5-A4RA-01,9 week post conception | liver,0.6858281956042337,9 week post conception,liver
+TCGA-77-7141-01,16 week post conception | kidney,0.6776814145421304,16 week post conception,kidney
+TCGA-DX-AB2V-01,infant | testis,0.6869598406263916,infant,testis
+TCGA-95-8039-01,12 week post conception | kidney,0.7933703220908587,12 week post conception,kidney
+TCGA-DJ-A3UY-01,19 week post conception | kidney,0.5156891811583506,19 week post conception,kidney
+TCGA-VS-A9V3-01,7 week post conception | kidney,0.6494072215763897,7 week post conception,kidney
+TCGA-F4-6855-01,4 week post conception | hindbrain,0.7457254971766047,4 week post conception,hindbrain
+TCGA-D8-A73W-01,16 week post conception | testis,0.623055202148675,16 week post conception,testis
+TCGA-E9-A1R4-01,16 week post conception | kidney,0.7396544764028012,16 week post conception,kidney
+TCGA-CZ-5464-01,neonate | kidney,0.7115512664365948,neonate,kidney
+TCGA-VM-A8CD-01,neonate | forebrain,0.560409095290634,neonate,forebrain
+TCGA-61-2003-01,4 week post conception | testis,0.827758128052527,4 week post conception,testis
+TCGA-RW-A686-01,11 week post conception | hindbrain,0.5792093450191083,11 week post conception,hindbrain
+TCGA-24-1545-01,school age child | kidney,0.7802608681850922,school age child,kidney
+TCGA-A6-6781-01,school age child | kidney,0.5645968679846767,school age child,kidney
+TCGA-BR-6709-01,5 week post conception | heart,0.7152526610051029,5 week post conception,heart
+TCGA-B6-A0IK-01,9 week post conception | kidney,0.6902705203854077,9 week post conception,kidney
+TCGA-99-8025-01,toddler | kidney,0.8056587938913817,toddler,kidney
+TCGA-B0-4693-01,19 week post conception | kidney,0.5338578656470212,19 week post conception,kidney
+TCGA-CN-4731-01,4 week post conception | heart,0.7523738519399596,4 week post conception,heart
+TCGA-86-7953-01,4 week post conception | forebrain,0.7364329433018064,4 week post conception,forebrain
+TCGA-2G-AAL7-01,4 week post conception | forebrain,0.5496151677685,4 week post conception,forebrain
+TCGA-QK-A8Z7-01,4 week post conception | forebrain,0.6114141858563169,4 week post conception,forebrain
+TCGA-AR-A0TQ-01,5 week post conception | hindbrain,0.6946482724977467,5 week post conception,hindbrain
+TCGA-A2-A0CX-01,4 week post conception | ovary,0.67589015044543,4 week post conception,ovary
+TCGA-MQ-A6BR-01,8 week post conception | testis,0.7603885975302987,8 week post conception,testis
+TCGA-DU-A7T8-01,19 week post conception | forebrain,0.45300460576740753,19 week post conception,forebrain
+TCGA-NC-A5HE-01,8 week post conception | liver,0.6481839716066267,8 week post conception,liver
+TCGA-SP-A6QJ-01,16 week post conception | hindbrain,0.6198839582341216,16 week post conception,hindbrain
+TCGA-D5-5539-01,19 week post conception | liver,0.6800164824201441,19 week post conception,liver
+TCGA-XU-AAXZ-01,9 week post conception | liver,0.5502360229957242,9 week post conception,liver
+TCGA-DB-A4XA-01,11 week post conception | hindbrain,0.4315121412304236,11 week post conception,hindbrain
+TCGA-DD-A73B-01,19 week post conception | liver,0.6632716090649464,19 week post conception,liver
+TCGA-HD-7917-01,5 week post conception | forebrain,0.5559825915505346,5 week post conception,forebrain
+TCGA-CC-A7IJ-01,4 week post conception | kidney,0.7130597932217244,4 week post conception,kidney
+TCGA-HZ-A8P1-01,neonate | kidney,0.7263109471458025,neonate,kidney
+TCGA-B6-A0RQ-01,toddler | testis,0.549945446277516,toddler,testis
+TCGA-EW-A6SB-01,10 week post conception | liver,0.5234977389839008,10 week post conception,liver
+TCGA-DS-A7WI-01,8 week post conception | liver,0.5139638763937255,8 week post conception,liver
+TCGA-ZF-AA4N-01,5 week post conception | forebrain,0.5897118383007305,5 week post conception,forebrain
+TCGA-KS-A4I5-01,infant | testis,0.47043584657563065,infant,testis
+TCGA-E8-A436-01,infant | testis,0.4704375781047998,infant,testis
+TCGA-A2-A0EV-01,16 week post conception | kidney,0.7282806391318037,16 week post conception,kidney
+TCGA-IQ-A61H-01,5 week post conception | forebrain,0.5865717240214443,5 week post conception,forebrain
+TCGA-CN-4736-01,12 week post conception | heart,0.7809757296425076,12 week post conception,heart
+TCGA-YL-A8HO-01,infant | testis,0.6455808855858362,infant,testis
+TCGA-CC-A7IH-01,toddler | liver,0.7182306811613002,toddler,liver
+TCGA-BP-5196-01,toddler | testis,0.6211880539684753,toddler,testis
+TCGA-KO-8410-01,10 week post conception | hindbrain,0.6425716177419415,10 week post conception,hindbrain
+TCGA-HT-8563-01,12 week post conception | hindbrain,0.5394997544177134,12 week post conception,hindbrain
