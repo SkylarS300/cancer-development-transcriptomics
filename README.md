@@ -1,4 +1,4 @@
-## 🧬 Cancer–Development Transcriptomics
+## Cancer–Development Transcriptomics
 
 **Do Tumors Recapitulate Fetal Mitotic Gene Expression Programs?**
 
